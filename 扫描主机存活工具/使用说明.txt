@@ -1,0 +1,4 @@
+python3 up_ip.py
+
+
+nmap -iL result.txt -F -oX out.xml
